@@ -22,6 +22,7 @@
 
 🛠️ **Projects**:
 Here are some of my best works (check the repos for details):
+
 🏢 asset – An internal asset management system that reduced company expenses by 95%. Developed with Django, MySQL, and JavaScript for seamless tracking and reporting.
 
 🛍️ saleor_backend – The backend for a mobile app and e-commerce website, designed for scalability and performance using Django REST Framework and PostgreSQL. It supports shared APIs for mobile and web clients.
