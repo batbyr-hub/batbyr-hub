@@ -22,9 +22,11 @@
 
 🛠️ **Projects**:
 Here are some of my best works (check the repos for details):
-- 📦 [`nFilterNew`](https://github.com/batbyr-hub/nFilterNew): A phone number filter built with Django and JavaScript.
-- 🏢 [`asset`](https://github.com/batbyr-hub/asset): An internal company asset management system.
-- 📱 [`tusgaidugaar`](https://github.com/batbyr-hub/tusgaidugaar): A backend project focused on secure data access.
+🏢 asset – An internal asset management system that reduced company expenses by 95%. Developed with Django, MySQL, and JavaScript for seamless tracking and reporting.
+
+🛍️ saleor_backend – The backend for a mobile app and e-commerce website, designed for scalability and performance using Django REST Framework and PostgreSQL. It supports shared APIs for mobile and web clients.
+
+🌐 urilga – A modern web application built with a Django backend and React frontend, integrated with Google login and PostgreSQL. Currently developed as part of my Master’s Capstone Project.
 
 ---
 
